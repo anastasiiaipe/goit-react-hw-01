@@ -1,0 +1,13 @@
+.avatar {
+  margin-bottom: 4px;
+}
+.name {
+  font-size: 18px;
+  margin-bottom: 2px;
+}
+.isOnline {
+  color: green;
+}
+.isOffline {
+  color: red;
+}
